@@ -44,7 +44,7 @@ section{
     position: relative;
     top:-58px
 }
-@media screen and (min-width:960px){
+@media screen and (min-width:1300px){
     video{
         width: 65%;
     }
