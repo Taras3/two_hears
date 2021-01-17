@@ -35,7 +35,7 @@ section{
     right: 0;
     width: 82px;
     height: 82px;
-    top:50%;
+    top:100px;
     transform: translate(0, -50%);
     margin: 0 auto;
     
