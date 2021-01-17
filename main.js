@@ -4,4 +4,11 @@ function klik() {
          
     })
     
-} 
+}
+setTimeout(function(){
+     
+ $('.circl').css({
+        display:"none"
+         
+    })
+}, 3000)
