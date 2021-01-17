@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0 auto;
+}
+video{
+    opacity: 0.5!important;
+    margin: 0 auto!important;
+    display: block;
+    height: 100%;
+    position: relative;
+    width: 100%;
+ 
+}
+img{
+    margin: auto;
+    position: absolute;
+    height: 100%;
+    left:50%;
+    margin-left: -25%;
+}
+section{
+    position: relative;
+}
+
+
+
