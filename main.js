@@ -6,7 +6,7 @@ function klik() {
     
 }
 
-if(window.innerWidth < 960){
+if(window.innerWidth < 1300){
 setTimeout(function(){
      
  $('.circl').css({
